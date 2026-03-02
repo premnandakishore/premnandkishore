@@ -2,7 +2,7 @@
 # Hi 👋 I'm Prem Nanda Kishore
 
 🚀 AI & Machine Learning Engineer  
-🎓 3rd Year Engineering Student | Lovely Professional University  
+🎓 4rd Year Engineering Student | Lovely Professional University  
 📍 Andhra Pradesh, India  
 
 ---
